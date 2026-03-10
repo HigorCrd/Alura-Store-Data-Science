@@ -8,6 +8,7 @@ Pra isso, analisei coisas como faturamento, categorias mais vendidas, avaliaçõ
 
 ## O que tem no projeto
 ├── AluraStoreBr.ipynb <- notebook com toda a análise
+
 └── README.md
 
 Os dados vêm direto do GitHub da Alura (arquivos CSV), então não precisa baixar nada separado.
@@ -16,8 +17,6 @@ Os dados vêm direto do GitHub da Alura (arquivos CSV), então não precisa baix
 
 ### 1. Faturamento total de cada loja
 Comparei a receita das 4 lojas pra ver qual fatura mais e qual fatura menos.
-
-![grafico de barras comparando faturamento]
 
 ### 2. Vendas por categoria
 Vi quais categorias de produto vendem mais em cada loja usando gráficos de pizza.
